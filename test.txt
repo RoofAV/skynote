@@ -3,3 +3,4 @@ print("My name is Alexandr");
 print("Hello, World!);
 print("My name is Alexandr");
 print("Hello");
+print("Hello my dear friend");
